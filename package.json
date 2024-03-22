@@ -1,0 +1,15 @@
+{
+  "name": "@ayisha_ss/stringtouppercase",
+  "version": "1.0.0",
+  "description": "Used to capitalize a string",
+  "main": "package/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "string",
+    "capitalize"
+  ],
+  "author": "",
+  "license": "ISC"
+}

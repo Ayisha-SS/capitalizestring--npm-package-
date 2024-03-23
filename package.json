@@ -1,5 +1,5 @@
 {
-  "name": "@ayisha_ss/stringtouppercase",
+  "name": "string-case-convert",
   "version": "1.0.0",
   "description": "Used to capitalize a string",
   "main": "package/index.js",
